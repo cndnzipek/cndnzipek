@@ -8,7 +8,9 @@
 -->
 <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3poZHRwN3Z4aTl4aDIwc2t6ZW1pdzVqa2w1ZjAzYThqa2FzY3hsMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/G6TgcESZt8FFk8XV7K/giphy.gif" width="130">
 </center>
-
+<br>
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHViaTdqYmVsOW5iZGp4ZGRrMm56amhqMzEzaDk1djc1Z3UyZzA4eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Jj8l7dQHN8P1afc7CB/giphy.gif" width="130">
+</center>
 
 <!--
 **cndnzipek/cndnzipek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
